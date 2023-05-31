@@ -88,4 +88,8 @@ You must be able to explain some specifics about this infrastructure:
 You must be able to explain what the issues are with this infrastructure:
 - Why terminating SSL at the load balancer level is an issue
 - Why having only one MySQL server capable of accepting writes is an issue
-- Why having servers with all the same components (database, web server and application server) might be a problem
+- Why having servers with all the same components (database, web server and application server) might be a problem. 
+
+![image](https://github.com/CaroChoch/holbertonschool-system_engineering-devops/assets/113856063/66e62632-41ea-4ed8-83e6-20c85b39282c)
+
+
