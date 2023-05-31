@@ -1,5 +1,10 @@
 # Task 0: Simple web Stack. 
 
+
+![image](https://github.com/CaroChoch/holbertonschool-system_engineering-devops/assets/113856063/9ecd7838-892e-4aac-adbb-6331f6bfa6ed)
+
+
+
 A simple web stack is the collection of software required for Web development.  
 
 At a minimum, it contains an operating system (OS), a programming language, database software, and a Web server.  
@@ -59,5 +64,3 @@ It's important to note that while this simple web stack can serve basic web appl
 
 
 
-
-![image](https://github.com/CaroChoch/holbertonschool-system_engineering-devops/assets/113856063/18902e0f-3563-4e9e-b7bb-dd0a7a3b7b5b)
