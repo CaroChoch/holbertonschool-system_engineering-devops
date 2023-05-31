@@ -34,6 +34,5 @@ You must be able to explain what the issues are with this infrastructure:
 - Cannot scale if too much incoming traffic. 
 
 
+![image](https://github.com/CaroChoch/holbertonschool-system_engineering-devops/assets/113856063/5a87204b-b3c0-4edf-9ad2-6ef1b364a12e)
 
-
-![image](https://github.com/CaroChoch/holbertonschool-system_engineering-devops/assets/113856063/d79c3291-e434-413b-b4e2-608156af6c02)
