@@ -2,7 +2,7 @@
 
 A secured and monitored web infrastructure refers to a setup that incorporates various measures to ensure the security and monitoring of a web application or system. It involves implementing practices, technologies, and tools to protect against threats, vulnerabilities, and unauthorized access, as well as actively monitoring the infrastructure for potential issues or anomalies.
 
-https://github.com/CaroChoch/holbertonschool-system_engineering-devops/assets/113856063/66e62632-41ea-4ed8-83e6-20c85b39282c
+![image](https://github.com/CaroChoch/holbertonschool-system_engineering-devops/assets/113856063/66e62632-41ea-4ed8-83e6-20c85b39282c)
 
 ### Requirements
 
