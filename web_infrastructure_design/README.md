@@ -104,4 +104,7 @@ You must add:
 
 
 You must be able to explain some specifics about this infrastructure:
-- For every additional element, why you are adding it
+- For every additional element, why you are adding it. 
+
+![image](https://github.com/CaroChoch/holbertonschool-system_engineering-devops/assets/113856063/eb2b7a26-a993-4ee4-9771-154e54c3f393)
+
